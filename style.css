@@ -1,0 +1,22 @@
+body {
+    background-image: linear-gradient(yellow, orange);
+    text-align: center;
+    font-family: cursive;
+}
+
+#image1 {
+    height: 300px;
+    width: 325px;
+    border-radius: 20%;
+    border-style: solid;
+}
+
+#contents {
+    color: darkblue;
+    background-image: linear-gradient();
+    background-size: cover;
+    color: darkgreen;
+    font-family: serif;
+    padding: 15px;
+    text-shadow: 2px 2px #FFFFFF;
+}
